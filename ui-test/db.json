@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "department": "Sales",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Brian",
+      "department": "Marketing",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Caroline",
+      "department": "Human Resources",
+      "status": "Terminated"
+    },
+    {
+      "id": 4,
+      "name": "Diana",
+      "department": "Support",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Ernest",
+      "department": "Product",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "name": "Fred",
+      "department": "Accounting",
+      "status": "Terminated"
+    }
+  ]
+}
